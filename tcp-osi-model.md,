@@ -1,0 +1,26 @@
+
+---
+
+### 🧰 Troubleshooting by Layer
+
+| Layer | Tool                     | What It Helps Diagnose           |
+|-------|--------------------------|----------------------------------|
+| 1     | `ping`, cable tester     | Connection, physical issues      |
+| 2     | `ipconfig`, `ifconfig`   | MAC, interface errors            |
+| 3     | `tracert`, `ping`        | Routing problems                 |
+| 4     | Port scanner             | TCP/UDP blocked or filtered      |
+| 7     | Browser DevTools         | Web-based issues                 |
+
+---
+
+### 📣 Community Engagement
+
+**Questions for You:**
+- Have you ever used `tracert` or `ping`? What did you find?
+- Which OSI layer do you troubleshoot most in your current role?
+- Drop a diagram or simple drawing of your home or office network layout—we’ll feature cool ones in the next round of labs!
+
+---
+
+_Next Document in Series:_  
+**VPNs, Firewalls & Security Protocols**
